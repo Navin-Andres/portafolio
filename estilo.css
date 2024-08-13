@@ -1,0 +1,56 @@
+nav{
+    background-color: blue;
+    padding: 10px;
+    color: aliceblue;
+
+}
+
+
+
+.perfil{
+    margin-left: 8%;
+    margin-top: 15%;
+    
+}
+
+.enlaces{
+    color: aliceblue;
+    padding: 5px;
+    display: inline-block;
+    text-decoration: none;
+    margin: 20px 20px;
+}
+
+.enlaces:hover{
+    background-color: aqua;
+    padding: 20px;
+}
+
+.menu{
+    display: flex;
+    justify-content: end;
+}
+
+.presentacion{
+    background-color: bisque;
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+    
+}
+
+.imagenes2{
+    width: 200px;
+    height: 200px;
+}
+
+.servicios{
+    background-color: bisque;
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+}
+
+.img{
+    border-radius: 50%;
+}
